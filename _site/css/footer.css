@@ -1,0 +1,22 @@
+ul.footer-icon {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  float: right;
+}
+
+ul.footer-icon li {float: left;}
+
+ul.footer-icon li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.icons {
+  font-size: 40px;
+}
