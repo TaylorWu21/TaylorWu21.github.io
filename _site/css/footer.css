@@ -18,5 +18,7 @@ ul.footer-icon li a {
 }
 
 .icons {
+  margin-left: 10px;
   font-size: 40px;
+  cursor: pointer;
 }

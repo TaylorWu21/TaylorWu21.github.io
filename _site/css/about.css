@@ -1,4 +1,6 @@
 .portrait {
+	float: left;
+	margin: 0 0 10px 10px;
 	height: 300px;
 	width: auto;
 	border-radius: 30%;
@@ -6,5 +8,5 @@
 }
 
 .content-margin {
-	margin-top: 10%;
+	margin-top: 7%;
 }
