@@ -4,10 +4,27 @@ email: taylorwu21@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is Taylor Wu's personal website. Created to document the progress of my programming
   and new technology I have learned about.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://taylorwu21.github.io/" # the base hostname & protocol for your site
-twitter_username: https://twitter.com/DrinkMySoySauce
-github_username:  taylorwu21
-
-# Build settings
+url: "https://taylorwu21.github.io/"
+baseurl: ""
+logo: Taylor Wu
+paginate: 5
+paginate_path: "/page:num/"
+owner:
+    email: taylorwu21@gmail.com
+    facebook:
+        show: true
+        name: "Taylor Wu"
+        url: "https://www.facebook.com/wuhooo"
+    github:
+        show: true
+        username: "taylorwu21"
+    twitter:
+        show: true
+        username: "drinkmysoysauce"
+sass:
+    sass_dir: _sass
+    style: compressed
 markdown: kramdown
+gems:
+    - jekyll-feed
+    - jekyll-paginate

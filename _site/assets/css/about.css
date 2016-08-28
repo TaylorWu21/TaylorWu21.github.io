@@ -1,0 +1,21 @@
+.portrait {
+	float: right;
+	height: 300px;
+	width: auto;
+	border-radius: 30%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.content-margin {
+	float: right;
+	margin-top: 5%;
+	display: inline-block;
+}
+
+.about-margin {
+	margin-bottom: 50px;
+}
+
+.font-weight-200 {
+	font-weight: 200;
+}
