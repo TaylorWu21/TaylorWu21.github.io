@@ -1,8 +1,9 @@
-# Jekyll-Materialize
-Jekyll powered blog with Google materialize css by materializecss.com
+# Taylor Wu's Blog
 
-### Demo
-https://codeharuka.github.io/jekyll-materialize/
+# Check it out here.
+[TaylorWu21.github.io](https://taylorwu21.github.io/)
+
+I used [Jekyll-Materialize](https://github.com/codeharuka/jekyll-materialize) as a template
 
 ### Usage
 [Jekyll](http://http://jekyllrb.com/)
@@ -10,7 +11,6 @@ https://codeharuka.github.io/jekyll-materialize/
 [Materializecss](http://materializecss.com/)
 
 ### Features
-* [Materializecss](http://http://materializecss.com/)
 * Icons with [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
 * Related posts
 * Disqus comment integrated
