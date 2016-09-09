@@ -1,6 +1,6 @@
 # Taylor Wu's Blog
 
-# Check it out here.
+### Check it out here.
 [TaylorWu21.github.io](https://taylorwu21.github.io/)
 
 I used [Jekyll-Materialize](https://github.com/codeharuka/jekyll-materialize) as a template
