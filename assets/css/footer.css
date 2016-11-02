@@ -28,3 +28,6 @@ ul.footer-icon li a {
   font-size: 40px;
   cursor: pointer;
 }
+.icons:hover {
+  color: #666666;
+}
