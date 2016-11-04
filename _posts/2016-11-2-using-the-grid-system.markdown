@@ -25,7 +25,7 @@ Materialize is my personal favorite. It gives me the grid system and more stylin
 
 <br />
 
-<img src='/assets/images/2016-11-2-using-the-grid-system/12-grid.png'  alt='12 column grid'/>
+<img class="responsive-img" src='/assets/images/2016-11-2-using-the-grid-system/12-grid.png'  alt='12 column grid'/>
 
 The grid system gives us 12 columns that will always be equal to each other no matter the size of the browser. Before we specify how many columns we want we want to wrap our code in a <div> with a class of ‘row’.
 
@@ -35,15 +35,18 @@ The advantages here is that you can specify how many columns a
 <div> may have. So let's say you want to have 3 columns for your website to make it nice and pretty like this.
 
 <br />
-
-<img src='/assets/images/2016-11-2-using-the-grid-system/12-grid.png'  alt='12 column grid'/>
-<img src='/assets/images/2016-11-2-using-the-grid-system/3-columns.png' style='width: 821px'  alt='12 column grid'/>
+<div class="row">
+  <div class="col s12">
+    <img class="responsive-img" src='/assets/images/2016-11-2-using-the-grid-system/12-grid.png'  alt='12 column grid'/>
+    <img class="responsive-img" src='/assets/images/2016-11-2-using-the-grid-system/3-columns.png' style='width: 821px'  alt='12 column grid'/>
+  </div>
+</div>
 
 <em>I placed the 12 column grid system above to show you how the 3 columns div line up</em>
 
 <br />
 
-{% highlight HTML %}
+{% highlight html %}
 <div class="row">
 
   <div class="col s12 m4 l4">
