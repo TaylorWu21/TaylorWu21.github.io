@@ -12,13 +12,6 @@
  * Date: 2015-04-28T16:01Z
  */
 
-$(document).ready( () => {
-    $('.button-collapse').sideNav({
-      closeOnClick: true, // Closes side-nav on <a> clicks, useful for Angular/Meteor
-    }
-  );
-})
-
 (function( global, factory ) {
 
 	if ( typeof module === "object" && typeof module.exports === "object" ) {

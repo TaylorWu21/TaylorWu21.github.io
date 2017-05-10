@@ -1,18 +1,24 @@
 <!DOCTYPE html>
 <html>
-{% include head.html %}
-<body>
-  <header>
-    {% include header.html %}
-  </header>
-  <main>
-    {{ content }}
-  </main>
+  {% include head.html %}
+  <body>
+    <header>
+      {% include header.html %}
+    </header>
+    <main>
+      {{ content }}
+    </main>
 
     {% include footer.html %}
+    
+    <script type="text/javascript" src="{{ "/assets/js/jquery.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" src="{{ "/assets/js/materialize.js" | prepend: site.baseurl }}"></script>
 
-  <script type="text/javascript" src="{{ "/assets/js/jquery.js" | prepend: site.baseurl }}"></script>
-  <script type="text/javascript" src="{{ "/assets/js/materialize.js" | prepend: site.baseurl }}"></script>
+    <script>
+    $(document).ready( () => {
+      $('.button-collapse').sideNav({ closeOnClick: true });
+    });
+    </script>
 
-</body>
+  </body>
 </html>
