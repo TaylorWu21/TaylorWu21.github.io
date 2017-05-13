@@ -31,8 +31,7 @@ The grid system gives us 12 columns that will always be equal to each other no m
 
 <br />
 
-The advantages here is that you can specify how many columns a
-<div> may have. So let's say you want to have 3 columns for your website to make it nice and pretty like this.
+The advantages here is that you can specify how many columns a <div> may have. So let's say you want to have 3 columns for your website to make it nice and pretty like this.
 
 <br />
 <div class="row">
