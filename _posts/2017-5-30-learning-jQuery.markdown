@@ -47,7 +47,6 @@ category: jQuery
 
 <h4>Now that we understand the basic syntax of jQuery lets build the calculator</h4>
 
-<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">-->
 <style>
   .btn {
   margin: 5px;
@@ -169,20 +168,21 @@ $(document).ready(function() {
     // console.log(rightNumber);
     var firstNum = parseFloat(leftNumber);
     var secondNum = parseFloat(rightNumber);
-
+    console.log(operator)
     if(leftNumber && operator && rightNumber) {
       switch(operator) {
         case '+':
-        result = firstNum + secondNum;
-        break;
+          result = firstNum + secondNum;
+          break;
         case '-':
-        result = firstNum - secondNum;
-        break;
-        case 'x':
-        result = firstNum * secondNum;
-        break;
+          result = firstNum - secondNum;
+          break;
+        case 'X':
+          result = firstNum * secondNum;
+          break;
         case '/':
-        result = firstNum / secondNum;
+          result = firstNum / secondNum;
+          break;
         if(secondNum === 0) {
           result = 'Cannot Divide By 0. Please Clear and try again';
         }
