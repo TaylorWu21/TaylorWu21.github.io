@@ -38,7 +38,7 @@ category: jQuery
 <h4>With jquery we can grab elements with less syntax as vanilla javascript</h4>
 
 <p>vanilla js way of getting element</p>
-*var numberButtons = getElementsByClassName('number_button');
+* var numberButtons = getElementsByClassName('number_button');
 
 <p>jQuery variables usually starts with a '$'. It will return an array with the same class name</p>
 * var $numberButtons = $('.number_button')</p>
