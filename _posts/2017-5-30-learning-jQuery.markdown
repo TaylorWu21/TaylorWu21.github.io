@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "jQuery Calculator"
-date: 2016-12-25 14:11:00
+date: 2017-5-25 14:11:00
 category: jQuery
 ---
 <p>
