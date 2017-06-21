@@ -20,7 +20,7 @@ category: jQuery
 * It has many helper function we can use to make manipulating the DOM
 
 <p>Here's a link to see all the jQuery documentation</p>
-<a href='http://api.jquery.com/'>jQuery Documentation</a>
+<a href='http://api.jquery.com/' target="_blank">jQuery Documentation</a>
 
 <h1>Basic jQuery Syntax</h1>
 * First we need to call on the jQuery libraru with a '$'

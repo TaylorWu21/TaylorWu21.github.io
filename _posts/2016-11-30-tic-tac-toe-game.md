@@ -10,7 +10,7 @@ category: React
   I used their create-react-app npm package to start building the tic tac toe game.
 </p>
 
-<a href='https://facebook.github.io/react/tutorial/tutorial.html'>Tutorial Link Here</a>
+<a href='https://facebook.github.io/react/tutorial/tutorial.html' target="_blank">Tutorial Link Here</a>
 
 <p>If you want to use facebooks create-react-app package you need to have node installed</p>
 <p>After that you need to run this command in the terminal</p>
@@ -32,8 +32,8 @@ category: React
 
 <br />
 
-<a href='http://we-love-nhi.surge.sh/'>Play Game!</a>
+<a href='http://we-love-nhi.surge.sh/' target="_blank">Play Game!</a>
 
-<a href='https://github.com/TaylorWu21/tic_tac_toe'>Source Code</a>
+<a href='https://github.com/TaylorWu21/tic_tac_toe' target="_blank">Source Code</a>
 
 

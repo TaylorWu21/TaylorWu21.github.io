@@ -11,9 +11,9 @@ category: React
 </p>
 
 
-<a href='http://christmas_game.surge.sh/'>Play Game!</a>
+<a href='http://christmas_game.surge.sh/' target="_blank">Play Game!</a>
 <br />
-<a href='https://github.com/TaylorWu21/react_matching_game'>Source Code</a>
+<a href='https://github.com/TaylorWu21/react_matching_game' target="_blank">Source Code</a>
 
 <h4>Challenges</h4>
 <hr />

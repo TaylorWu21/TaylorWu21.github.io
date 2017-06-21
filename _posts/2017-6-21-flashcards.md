@@ -12,10 +12,10 @@ category: React
 <h4>Nothing special just a quick project I threw together with the npm package create-react-app</h4>
 <br />
 
-<h4><a href='http://dpl-flashcard-example.surge.sh/'>Deployed Here</a></h4>
+<h4><a href='http://dpl-flashcard-example.surge.sh/' target="_blank">Deployed Here</a></h4>
 
 
-<h4><a href='https://github.com/TaylorWu21/react-flashcards'>Source Code</a></h4>
+<h4><a href='https://github.com/TaylorWu21/react-flashcards' target="_blank">Source Code</a></h4>
 
 <br />
 
