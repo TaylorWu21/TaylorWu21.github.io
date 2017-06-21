@@ -16,6 +16,10 @@ category: React
 
 <h1><a href='http://wu-weather.surge.sh/'>Weather App</a></h1>
 
+<h4><a href='https://github.com/TaylorWu21/weather_app'>Source Code</a></h4>
+<br />
+<br />
+<br />
 <div id="root"></div>
 
 <script type="text/javascript" src="/assets/js/weather-post/bundle.js"></script>
