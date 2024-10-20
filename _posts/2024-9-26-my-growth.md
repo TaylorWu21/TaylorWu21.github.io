@@ -28,5 +28,5 @@ I am someone who tries his best at everything I do. I try my best to be mindful 
 <br />
 If I ever fail to do what my future self needs me to do. I will come back to this post and remember whats important to me.
 <br />
-
+<br />
 'You have power over your mind - not outside events. Realize this, and you will find strength.' - Marcus Aurelius
