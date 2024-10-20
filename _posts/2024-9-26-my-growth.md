@@ -25,6 +25,8 @@ I started working out after the breakup in November as a way to cope with the st
 
 I am someone who tries his best at everything I do. I try my best to be mindful of my actions and thoughts. I am physically active and take care of my mind, body, and soul. I know I’m not perfect and will sometimes fail at the things I try, but I know that I will improve through failure. As I learn to be more confident in myself, I hope to inspire and influence others around me to be the best they can be. In return, they will inspire me to be better. I know that I need to work on myself, and every day I have the chance to be a better version of myself. My daily practices of exercising, journaling, and meditation have helped me be more focused at work, be more present, and stay healthy. I now know that true happiness comes from within, not from external sources. I am grateful for the life I’ve been granted, and I will make the most of it. I will die someday, and I want to live my life the way I want it to be surrounded by loved ones and people who make me happy.
 
-If I ever fail to do what my future selfs needs me to do. I will come back to this post and remember whats important to me.
+<br />
+If I ever fail to do what my future self needs me to do. I will come back to this post and remember whats important to me.
+<br />
 
 'You have power over your mind - not outside events. Realize this, and you will find strength.' - Marcus Aurelius
