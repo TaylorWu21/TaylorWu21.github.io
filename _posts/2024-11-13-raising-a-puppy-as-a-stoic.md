@@ -16,7 +16,8 @@ I recently got my dog Millie. I got her at 8 weeks old and knew that I needed to
 I recently read this quote from Meditations:
 
 > If they've made a mistake, correct them gently and show them where they went wrong. If you can't do that, then the blame lies with you. Or no one. - Marcus Aurelius Book 10 Quote 4
-> What an absolute great quote to remember when raising a puppy. I have the power to shape this dog to be the best companion and if they make a mistake that is on me to fix. Millie is a product of me and how I train and take care of her. Remember to always be consistent and do not punish her for making mistakes.
+
+What an absolute great quote to remember when raising a puppy. I have the power to shape this dog to be the best companion and if they make a mistake that is on me to fix. Millie is a product of me and how I train and take care of her. Remember to always be consistent and do not punish her for making mistakes.
 
 The time and work put into her will be returned 10 fold. All that discipline will pay off in giving you freedom. Freedom of not worrying about her having an accident. Of her not listening to your commands when you need her to behave. She will be well trained, so others can look after her if I need to go on vacation.
 
