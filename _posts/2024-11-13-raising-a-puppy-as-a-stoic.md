@@ -32,6 +32,6 @@ Being mindful when I am with her. Taking the time to notice how she is feeling o
 
 Feel grateful to have her as a companion, because she will make my life so much better. She will take care of me just as much as I take care of her. She does not care how much money I make, or what I own, she loves me for me and that's all I can ask for.
 
-<img class="responsive-img" src='/assets/images/2024-11-13-raising-a-puppy-as-a-stoic/dog1.jpg'  alt='My dog Mille'/>
+<img class="responsive-img" src='/assets/images/2024-11-13-raising-a-puppy-as-a-stoic/dog2.jpg'  alt='My dog Mille'/>
 
 > A person can learn a lot from a dog, even a loopy one like ours. Marley taught me about living each day with unbridled exuberance and joy, about seizing the moment and following your heart. He taught me to appreciate the simple things-a walk in the woods, a fresh snowfall, a nap in a shaft of winter sunlight. And as he grew old and achy, he taught me about optimism in the face of adversity. Mostly, he taught me about friendship and selflessness and, above all else, unwavering loyalty - Marley and Me
